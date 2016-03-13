@@ -1,7 +1,7 @@
 # EDA Diamonds 1
 
 Exploratory Data Analisis with R using 'diamonds' data set.
-Exploring 1 variables.
+Exploring 1 variable.
 <br>
 <br>
 In this folder you will find the Markdown and the output html file.
