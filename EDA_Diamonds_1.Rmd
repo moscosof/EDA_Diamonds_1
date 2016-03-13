@@ -316,7 +316,7 @@ qplot(x = diamonds$carat,
 ```
 
 
-**Compare the following graphic with the next one. Look how this time there is a tick for every 0.3. Also, we are omitting the break for the y axis**
+**Compare the following graphic with the previous one. Look how this time there is a tick for every 0.3. Also, we are omitting the break for the y axis**
 ```{r}
 qplot(x = diamonds$carat,
       data = diamonds,
